@@ -17,6 +17,7 @@ This file contains data related to video games, including:
 - **names**: An array of video game names.
 - **genres**: An array of video game genres.
 - **prices**: An array of video game prices.
+
 These arrays are used to randomly generate orders.
 
 ## helperFunctions.js
